@@ -1,0 +1,10 @@
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter2\ProjectedRaisesInteractive\ProjectedRaisesInteractive\bin\Debug\netcoreapp3.0\ProjectedRaisesInteractive.exe
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter2\ProjectedRaisesInteractive\ProjectedRaisesInteractive\bin\Debug\netcoreapp3.0\ProjectedRaisesInteractive.deps.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter2\ProjectedRaisesInteractive\ProjectedRaisesInteractive\bin\Debug\netcoreapp3.0\ProjectedRaisesInteractive.runtimeconfig.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter2\ProjectedRaisesInteractive\ProjectedRaisesInteractive\bin\Debug\netcoreapp3.0\ProjectedRaisesInteractive.runtimeconfig.dev.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter2\ProjectedRaisesInteractive\ProjectedRaisesInteractive\bin\Debug\netcoreapp3.0\ProjectedRaisesInteractive.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter2\ProjectedRaisesInteractive\ProjectedRaisesInteractive\bin\Debug\netcoreapp3.0\ProjectedRaisesInteractive.pdb
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter2\ProjectedRaisesInteractive\ProjectedRaisesInteractive\obj\Debug\netcoreapp3.0\ProjectedRaisesInteractive.AssemblyInfoInputs.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter2\ProjectedRaisesInteractive\ProjectedRaisesInteractive\obj\Debug\netcoreapp3.0\ProjectedRaisesInteractive.AssemblyInfo.cs
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter2\ProjectedRaisesInteractive\ProjectedRaisesInteractive\obj\Debug\netcoreapp3.0\ProjectedRaisesInteractive.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter2\ProjectedRaisesInteractive\ProjectedRaisesInteractive\obj\Debug\netcoreapp3.0\ProjectedRaisesInteractive.pdb
